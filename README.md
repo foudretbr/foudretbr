@@ -80,6 +80,6 @@ Discord bot written in Python
 ---
 
 ### 📫 Contact
-💬 Discord: `your_tag_here`
+💬 Discord: `foudretbr`
 
 </div>
