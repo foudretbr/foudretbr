@@ -9,7 +9,7 @@ Learning by building real projects 🚀
 
 ### 🧠 What I do
 💻 Python • Lua • Web (HTML / CSS / React) • C • C++  
-🎮 FiveM / ESX development  
+🎮 FiveM / ESX development  / Nanos-World
 🧪 Personal projects to learn, experiment and improve
 
 ---
