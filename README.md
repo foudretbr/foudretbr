@@ -2,58 +2,57 @@
 
 # foudretbr
 
-**Développeur français** · Apprentissage par la pratique et les projets concrets
+**French Developer** · Learning through hands-on projects and real-world experience
 
 ---
 
-### Ce que je fais
-Développement en **Python**, **Lua**, **Web (HTML/CSS/React)**, **C/C++**
-Création de scripts pour **FiveM/ESX** et **Nanos-World**
-Projets personnels pour explorer, tester et progresser
+### What I Do
+Development in **Python**, **Lua**, **Web (HTML/CSS/React)**, **C/C++**
+Scripting for **FiveM/ESX** and **Nanos-World**
+Personal projects to explore, test, and improve
 
 ---
 
-### Stack technique
+### Tech Stack
 Python, Lua, C, C++, HTML, CSS, JavaScript, React
 
 ---
 
-### Projets mis en avant
+### Featured Projects
 
 #### esx_crewbuilder
-Outil de gestion d'équipes pour FiveM (en développement)
+Team management tool for FiveM (work in progress)
 - Lua + ESX
-- Interface NUI (HTML/CSS/JS)
-- Logique claire et optimisée
+- NUI (HTML/CSS/JS)
+- Clean and optimized logic
 
-[Lien vers le dépôt](https://github.com/foudretbr/esx_crewbuilder)
+[View Repository](https://github.com/foudretbr/esx_crewbuilder)
 
 ---
 
 #### Discord-Bot
-Bot Discord développé en Python
-- Gestion de commandes et d'événements
-- Automatisation et logique métier
+Discord bot developed in Python
+- Command and event handling
+- Automation and business logic
 
-[Lien vers le dépôt](https://github.com/foudretbr/Discord-Bot)
-
----
-
-### En apprentissage
-- Approfondissement de **Lua et de l'architecture ESX**
-- **React** pour les interfaces FiveM
-- Optimisation et structuration de projets
-- Bases du **C/C++**
+[View Repository](https://github.com/foudretbr/Discord-Bot)
 
 ---
-### Statistiques GitHub
+### Currently Learning
+- Advanced **Lua and ESX architecture**
+- **React** for FiveM interfaces
+- Project optimization and structuring
+- Basics of **C/C++**
 
-[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=foudretbr&show_icons=false&theme=default&hide_border=true)](https://github.com/foudretbr)
+---
+### GitHub Stats
 
-[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=foudretbr&layout=compact&theme=default&hide_border=true)](https://github.com/foudretbr)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=foudretbr&show_icons=false&theme=default&hide_border=true)](https://github.com/foudretbr)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=foudretbr&layout=compact&theme=default&hide_border=true)](https://github.com/foudretbr)
 
 ---
 ### Contact
-Discord : `foudretbr`
+Discord: `foudretbr`
 
 </div>
