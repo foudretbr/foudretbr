@@ -1,86 +1,59 @@
 <div align="center">
 
-# 👋 Hey, I'm foudretbr
+# foudretbr
 
-**Young French developer**  
-Learning by building real projects 🚀
-
----
-
-### 🧠 What I do
-💻 Python • Lua • Web (HTML / CSS / React) • C • C++  
-🎮 FiveM / ESX development  / Nanos-World
-🧪 Personal projects to learn, experiment and improve
+**Développeur français** · Apprentissage par la pratique et les projets concrets
 
 ---
 
-### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+### Ce que je fais
+Développement en **Python**, **Lua**, **Web (HTML/CSS/React)**, **C/C++**
+Création de scripts pour **FiveM/ESX** et **Nanos-World**
+Projets personnels pour explorer, tester et progresser
 
 ---
 
-### 📌 Featured Projects
-<table>
-<tr>
-<td width="50%">
+### Stack technique
+Python, Lua, C, C++, HTML, CSS, JavaScript, React
 
-#### 🚓 esx_crewbuilder
-ESX Crew Builder for FiveM  
-⚠️ Work in progress – **personal learning project**
+---
 
+### Projets mis en avant
+
+#### esx_crewbuilder
+Outil de gestion d'équipes pour FiveM (en développement)
 - Lua + ESX
-- NUI (HTML/CSS/JS)
-- Focus on clean logic & UI
+- Interface NUI (HTML/CSS/JS)
+- Logique claire et optimisée
 
-➡️ **Repo:** https://github.com/foudretbr/esx_crewbuilder
-
-</td>
-<td width="50%">
-
-#### 🤖 Discord-Bot
-Discord bot written in Python
-
-- Commands
-- Events
-- Bot logic & automation
-
-➡️ **Repo:** https://github.com/foudretbr/Discord-Bot
-
-</td>
-</tr>
-</table>
+[Lien vers le dépôt](https://github.com/foudretbr/esx_crewbuilder)
 
 ---
 
-### 📚 Currently Learning
-- Advanced Lua & ESX architecture
-- React for FiveM NUI
-- Better project structure & optimization
-- Low-level basics with C & C++
+#### Discord-Bot
+Bot Discord développé en Python
+- Gestion de commandes et d'événements
+- Automatisation et logique métier
+
+[Lien vers le dépôt](https://github.com/foudretbr/Discord-Bot)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=foudretbr&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foudretbr&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### En apprentissage
+- Approfondissement de **Lua et de l'architecture ESX**
+- **React** pour les interfaces FiveM
+- Optimisation et structuration de projets
+- Bases du **C/C++**
 
 ---
+### Statistiques GitHub
 
-### 📫 Contact
-💬 Discord: `foudretbr`
+[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=foudretbr&show_icons=false&theme=default&hide_border=true)](https://github.com/foudretbr)
+
+[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=foudretbr&layout=compact&theme=default&hide_border=true)](https://github.com/foudretbr)
+
+---
+### Contact
+Discord : `foudretbr`
 
 </div>
