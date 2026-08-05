@@ -2,57 +2,55 @@
 
 # foudretbr
 
-**French Developer** · Learning through hands-on projects and real-world experience
+**Software Developer** · Systems, Web, & Game Scripting
 
 ---
 
-### What I Do
-Development in **Python**, **Lua**, **Web (HTML/CSS/React)**, **C/C++**
-Scripting for **FiveM/ESX** and **Nanos-World**
-Personal projects to explore, test, and improve
+### About Me
+
+Focused on backend logic, clean architectures, and interactive web/game environments. Passionate about turning concepts into efficient, optimized code.
 
 ---
 
 ### Tech Stack
-Python, Lua, C, C++, HTML, CSS, JavaScript, React
+
+* **Languages:** Python, Lua, C, C++, JavaScript
+* **Web:** HTML5, CSS3, React
+* **Ecosystems:** FiveM (ESX), Nanos-World, Discord APIs
 
 ---
 
 ### Featured Projects
 
-#### esx_crewbuilder
-Team management tool for FiveM (work in progress)
-- Lua + ESX
-- NUI (HTML/CSS/JS)
-- Clean and optimized logic
+#### `esx_crewbuilder`
+* **Overview:** Advanced team and organization management resource for FiveM servers.
+* **Stack:** Lua (ESX), HTML/CSS/JS (NUI)
+* **Key Focus:** Modular design, clean separation of concerns, and network overhead optimization.
 
 [View Repository](https://github.com/foudretbr/esx_crewbuilder)
 
 ---
 
-#### Discord-Bot
-Discord bot developed in Python
-- Command and event handling
-- Automation and business logic
+#### `Discord-Bot`
+* **Overview:** Asynchronous utility and automation bot built in Python.
+* **Stack:** Python
+* **Key Focus:** Event-driven architecture and API integration.
 
 [View Repository](https://github.com/foudretbr/Discord-Bot)
 
 ---
-### Currently Learning
-- Advanced **Lua and ESX architecture**
-- **React** for FiveM interfaces
-- Project optimization and structuring
-- Basics of **C/C++**
+
+### Current Focus
+
+* Advanced Lua architecture patterns & ESX internals
+* Scaling NUI workflows with **React**
+* Systems programming and low-level performance optimization in **C/C++**
 
 ---
-### GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=foudretbr&show_icons=false&theme=default&hide_border=true)](https://github.com/foudretbr)
+### Connect
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=foudretbr&layout=compact&theme=default&hide_border=true)](https://github.com/foudretbr)
-
----
-### Contact
-Discord: `foudretbr`
+* **Discord:** `foudretbr`
+* **GitHub:** [github.com/foudretbr](https://github.com/foudretbr)
 
 </div>
